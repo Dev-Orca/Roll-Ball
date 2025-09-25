@@ -1,15 +1,7 @@
 # Roll Ball
 Here is some pictures from unity:
-- looking around script for first person camera:
-- ![Screenshot](lookingScript.png)
-- movement for first person (including sprinting, crouching, jumping):
-- ![Screenshot](movementScript.png)
-- shooting phisical bullets:
-- ![Screenshot](shooting.png)
-- shooting Rays (used Raycasting):
-- ![Screenshot](shootingRays.png)
-- targets small script, for HP reduction control:
-- ![Screenshot](targetHP.png)
-- Script for switching between Weapons:
-- ![Screenshot](weaponSwitching.png)
+- During gameplay:
+- ![Screenshot](RollBall01.png)
+- Game in Editor (everything made with custom materials + prefabs):
+- ![Screenshot](RollBall02.png)
 - Ect.
