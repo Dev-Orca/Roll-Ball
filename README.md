@@ -1,5 +1,5 @@
 # Roll Ball
-Here is some of the games code:
+Here is some pictures from unity:
 - looking around script for first person camera:
 - ![Screenshot](lookingScript.png)
 - movement for first person (including sprinting, crouching, jumping):
